@@ -6,6 +6,7 @@ public class A {
 		System.out.println("Hello User");
 		System.out.println("Hello from Aleksej!");
 		System.out.println("Hello from Svetlana Zakharenka!");
+		System.out.println("Hello from Kozlov!");
 	}
 	
 }
