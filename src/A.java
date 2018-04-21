@@ -7,6 +7,7 @@ public class A {
 		System.out.println("Hello from Aleksej!");
 		System.out.println("Hello from Svetlana Zakharenka!");
 		System.out.println("Hello from Bragin");
+		System.out.println("Hello from Sprynchan");
 	}
 	
 }
